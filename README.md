@@ -9,22 +9,24 @@
     - 조에 전공자 / 비전공자 함께 있어 '도전'을 기준으로 잡음  
 - **파이널 테스트 3일 전부터**
   - 모든 조원이 같은 문제로 일정 시간동안 풀고 리뷰
----
+
 ## 위클리(수)
 - 한 주 동안 풀었던 문제 코드 리뷰
 - 알고리즘 관련 개념 1개씩 발표
----
+
 ## 실력측정
 - **데일리** 각자 푼 문제를 바탕으로 실력 측정
-- **위클리** 코드리뷰 후 상 등급 문제 다시 풀어 실력 측정
+- **위클리** 코드 리뷰 후 상 등급 문제 다시 풀어 실력 측정
 - 푼 문제는 개별로 점수화해 표로 도식화함
----
-## 진행률 관리
-- **1주차**   
 
-| 이름 | 목                                                                                   | 금                                                                                   | 월                                                                                   | 화                                                                                   | 수                                                                                   |
-|------|--------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
-| 세영 |:white_large_square::white_large_square::white_large_square::white_large_square::white_large_square: | :white_large_square::white_large_square::white_large_square::white_large_square::white_large_square: | :white_large_square::white_large_square::white_large_square::white_large_square::white_large_square: | :white_large_square::white_large_square::white_large_square::white_large_square::white_large_square: | :white_large_square::white_large_square::white_large_square::white_large_square::white_large_square: |
-| 라영 |:white_square_button::white_square_button::white_square_button::white_square_button::white_square_button: | :white_square_button::white_square_button::white_square_button::white_square_button::white_square_button: | :white_large_square::white_large_square::white_large_square::white_large_square::white_large_square: | :white_large_square::white_large_square::white_large_square::white_large_square::white_large_square: | :white_large_square::white_large_square::white_large_square::white_large_square::white_large_square: |
-| 명희 |:white_large_square::white_large_square::white_large_square::white_large_square::white_large_square: | :white_large_square::white_large_square::white_large_square::white_large_square::white_large_square: | :white_large_square::white_large_square::white_large_square::white_large_square::white_large_square: | :white_large_square::white_large_square::white_large_square::white_large_square::white_large_square: | :white_large_square::white_large_square::white_large_square::white_large_square::white_large_square: |
-| 태기 |:white_square_button::white_square_button::white_square_button::white_square_button::white_square_button: | :white_square_button::white_square_button::white_square_button::white_square_button::white_square_button: | :white_large_square::white_large_square::white_large_square::white_large_square::white_large_square: | :white_large_square::white_large_square::white_large_square::white_large_square::white_large_square: | :white_large_square::white_large_square::white_large_square::white_large_square::white_large_square: |
+## 진행률 관리(1주차)
+- **데일리**  
+
+| 이름 | 목                                                                                   | 금                                                                                   | 월                                                                                   | 화                                                                                   |
+|------|--------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
+| 세영 |:white_large_square::white_large_square::white_large_square::white_large_square::white_large_square: | :white_large_square::white_large_square::white_large_square::white_large_square::white_large_square: | :white_large_square::white_large_square::white_large_square::white_large_square::white_large_square: | :white_large_square::white_large_square::white_large_square::white_large_square::white_large_square: |
+| 라영 |:white_square_button::white_square_button::white_square_button::white_square_button::white_square_button: | :white_square_button::white_square_button::white_square_button::white_square_button::white_square_button: | :white_large_square::white_large_square::white_large_square::white_large_square::white_large_square: | :white_large_square::white_large_square::white_large_square::white_large_square::white_large_square: |
+| 명희 |:white_large_square::white_large_square::white_large_square::white_large_square::white_large_square: | :white_large_square::white_large_square::white_large_square::white_large_square::white_large_square: | :white_large_square::white_large_square::white_large_square::white_large_square::white_large_square: | :white_large_square::white_large_square::white_large_square::white_large_square::white_large_square: |
+| 태기 |:white_square_button::white_square_button::white_square_button::white_square_button::white_square_button: | :white_square_button::white_square_button::white_square_button::white_square_button::white_square_button: | :white_large_square::white_large_square::white_large_square::white_large_square::white_large_square: | :white_large_square::white_large_square::white_large_square::white_large_square::white_large_square: |  
+
+- **위클리**
