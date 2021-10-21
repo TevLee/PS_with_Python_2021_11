@@ -29,4 +29,6 @@
 | 명희 |:white_square_button::white_square_button::white_square_button::white_square_button::white_square_button: | :white_square_button::white_square_button::white_square_button::white_square_button::white_square_button: | :white_square_button::white_square_button::white_square_button::white_square_button::white_square_button: | :white_square_button::white_square_button::white_square_button::white_square_button::white_square_button: |
 | 태기 |:white_square_button::white_square_button::white_square_button::white_square_button::white_square_button: | :white_square_button::white_square_button::white_square_button::white_square_button::white_square_button: | :white_square_button::white_square_button::white_square_button::white_square_button::white_square_button: | :white_square_button::white_square_button::white_square_button::white_square_button::white_square_button: |  
 
-- **위클리**
+
+## 진행률 관리(2주차)
+- **데일리** 
