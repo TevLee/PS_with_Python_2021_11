@@ -3,13 +3,13 @@ sys.stdin=open("input.txt", "r")
 s=input()
 stack=[]
 cnt=0
-for i in range(len(s)):
-    if s[i]=='(':
+for i in range(len(s)): # 쭉 돌면서
+    if s[i]=='(': #
         stack.append(s[i])
-    else:
-        stack.pop()
-        if s[i-1]=='(':
-            cnt+=len(stack)
-        else:
-            cnt+=1
+    else: # 레이저 잘리면
+        stack.pop() # 꺼내서
+        if s[i-1]=='(': #
+            cnt+=len(stack) # 현재까지 쌓인 철판 갯수 더하고
+        else: # s[i-1] == ')'면
+            cnt+=1 # ?
 print(cnt)

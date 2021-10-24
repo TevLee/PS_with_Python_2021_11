@@ -4,7 +4,7 @@ num, m=map(int, input().split())
 num=list(map(int, str(num)))
 stack=[]
 for x in num:
-    while stack and m>0 and stack[-1]<x:
+    while stack and m>0 and stack[-1]<x: #스택 차있고, m남아있고... 첫자리가 맨앞자리보다 작으면
         stack.pop()
         m-=1
     stack.append(x)
