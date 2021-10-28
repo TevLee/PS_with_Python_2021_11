@@ -14,6 +14,7 @@ for i in range(k):
     tmp=int(input())
     Line.append(tmp)
     largest=max(largest, tmp)
+# 입력
 lt=1
 rt=largest
 while lt<=rt:

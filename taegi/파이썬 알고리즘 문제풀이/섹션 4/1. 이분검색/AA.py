@@ -16,4 +16,4 @@ while s<e:
         s = m+1
     else :
         e = m #왜 m이지..
-print(m+1)
+print(m+1) #index라서 1더해줌
