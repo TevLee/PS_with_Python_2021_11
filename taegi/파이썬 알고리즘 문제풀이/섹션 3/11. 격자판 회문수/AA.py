@@ -30,3 +30,9 @@ for i in range(7):
             # print(deq)
             ans+=1
 print(ans)
+[1,2,3]
+[4,5,6]
+
+[1,4]
+[2,5]
+[3,6]
