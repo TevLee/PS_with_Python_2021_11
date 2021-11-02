@@ -4,18 +4,18 @@ a=input()
 stack=[]
 res=''
 for x in a:
-    if x.isdecimal():
-        res+=x
+    if x.isdecimal(): #숫자면
+        res+=x #더해주고
     else:
         if x=='(':
             stack.append(x)
-        elif x=='*' or x=='/':
-            while stack and (stack[-1]=='*' or stack[-1]=='/'):
-                res+=stack.pop()
+        elif x=='*' or x=='/': # */면
+            while stack and (stack[-1]=='*' or stack[-1]=='/'): #*/있으면
+                res+=stack.pop() #스택에서 꺼내서 추가
             stack.append(x)
-        elif x=='+' or x=='-':
-            while stack and stack[-1]!='(':
-                res+=stack.pop()
+        elif x=='+' or x=='-': #+-면
+            while stack and stack[-1]!='(': # 괄호없을 때 까지
+                res+=stack.pop() # 스택에서 꺼내서 추가
             stack.append(x)
         elif x==')':
             while stack and stack[-1]!='(':
