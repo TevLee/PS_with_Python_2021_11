@@ -1,5 +1,6 @@
 import sys
-#sys.stdin=open("input.txt", "r")
+#sys.stdin = open("in1.txt", "rt")
+
 def DFS(L, sum):
     if sum>total//2:
         return
@@ -17,5 +18,3 @@ if __name__=="__main__":
     total=sum(a)
     DFS(0, 0)
     print("NO")
-
-    
